@@ -2,3 +2,5 @@
 Projeto Integrador Transdisciplinar em Ciência da Computação II
 
 Banco de dados utilizado no projeto para a disciplina de PIT II.
+
+Exportado do phpMyAdmin site, linguagem utilizada SQL.
